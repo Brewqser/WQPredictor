@@ -3,13 +3,13 @@ WQPredictor
 ===========
 
 
-Add a short description here!
+Wine Quality Predictor that (will) can predict quality of wine.
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+Wine Quality Predictor ( WQP ) is python Machine Learning project that (will) can predict wine quality.
 
 
 Note
